@@ -6,7 +6,7 @@ class Index extends controller
 {
     public function index()
     {
-        echo 'aaa';
+        echo 'aaa多次';
 //        $result= userModel::user();
 //        var_dump($result);
     }
